@@ -1,0 +1,48 @@
+body{
+    background-image: url('yyyy.jpeg');
+background-size: cover;
+background-repeat: no-repeat;
+height: 100px;
+width: 90%;
+}
+ul{
+    display: flex;
+   /* justify-content: space-between; */
+   gap: 20px;
+   float: right;
+}
+ul li{
+    list-style-type: none;
+     /* margin-left:28%;  */
+    margin-right: 17px;
+    /* gap: 50%; */
+    color: #F5F5F5;
+    /* width: 40px; */
+}
+h1{
+     text-align: center;
+    margin: 295px 60px;
+    color: #F5F5F5;
+    
+
+height: 39px;
+
+    
+}
+input{
+
+    width: 95px;
+    height: 42px;
+    
+    border: 2px solid rgba(35, 152, 138, 0.52);
+    border-radius: 15px;
+    margin-bottom: 300px;
+    text-align: center;
+    float: right;
+    margin-right: 80px;
+}
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 30px;
+}
